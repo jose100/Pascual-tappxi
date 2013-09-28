@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tappxi.App", "Tappxi.App\Tappxi.App.csproj", "{0805CD3D-7FB5-4F1E-A950-50A11CB675EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tappxi.Datos", "Tappxi.Datos\Tappxi.Datos.csproj", "{AD018D48-189E-49DB-9F23-F37D4BABD5A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tappxi.Entidades", "Tappxi.Entidades\Tappxi.Entidades.csproj", "{F4D08962-C65E-4F6A-B9AD-DE047C4798CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tappxi.Logica", "Tappxi.Logica\Tappxi.Logica.csproj", "{3B9B4438-56D7-4ACD-B8FB-DB70B6D056C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tappxi.Servicio", "Tappxi.Servicio\Tappxi.Servicio.csproj", "{EF6D4AA6-9638-486B-A783-EEFA9A45A604}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0805CD3D-7FB5-4F1E-A950-50A11CB675EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0805CD3D-7FB5-4F1E-A950-50A11CB675EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0805CD3D-7FB5-4F1E-A950-50A11CB675EC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0805CD3D-7FB5-4F1E-A950-50A11CB675EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0805CD3D-7FB5-4F1E-A950-50A11CB675EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0805CD3D-7FB5-4F1E-A950-50A11CB675EC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AD018D48-189E-49DB-9F23-F37D4BABD5A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD018D48-189E-49DB-9F23-F37D4BABD5A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD018D48-189E-49DB-9F23-F37D4BABD5A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD018D48-189E-49DB-9F23-F37D4BABD5A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4D08962-C65E-4F6A-B9AD-DE047C4798CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4D08962-C65E-4F6A-B9AD-DE047C4798CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4D08962-C65E-4F6A-B9AD-DE047C4798CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4D08962-C65E-4F6A-B9AD-DE047C4798CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B9B4438-56D7-4ACD-B8FB-DB70B6D056C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B9B4438-56D7-4ACD-B8FB-DB70B6D056C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B9B4438-56D7-4ACD-B8FB-DB70B6D056C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B9B4438-56D7-4ACD-B8FB-DB70B6D056C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF6D4AA6-9638-486B-A783-EEFA9A45A604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF6D4AA6-9638-486B-A783-EEFA9A45A604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF6D4AA6-9638-486B-A783-EEFA9A45A604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF6D4AA6-9638-486B-A783-EEFA9A45A604}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
